@@ -1,7 +1,8 @@
 ### Hi there 👋
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jisujeong0&count_private=true&show_icons=true&theme=merko)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jisujeong0&count_private=true&show_icons=true&theme=gruvbox)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wltndhso)](https://solved.ac/wltndhso)
+
 
 
 
